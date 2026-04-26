@@ -1,0 +1,22 @@
+# VirusTotal Investigation
+
+## 🌐 Indicator
+IP: 45.146.165.37
+
+## 🔍 Scan Result
+Detection: 9/94
+
+## 🚨 Analysis
+- Multiple engines flagged as malicious
+- Associated with suspicious activity
+
+## 🧠 Interpretation
+- Even low detection can be risky
+- Cross-check with other sources recommended
+
+## ✅ Verdict
+Malicious
+
+## 🛡️ Action
+- Block IP
+- Monitor network traffic
