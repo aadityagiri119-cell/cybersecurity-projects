@@ -1,7 +1,7 @@
 #cybersecurity-projects
 # Cybersecurity Practice - Aaditya Giri
 
-## 🔍 Phishing Analysis
+##  Phishing Analysis
 
 URL: paypal-account-security-update[.]xyz  
 
@@ -9,24 +9,24 @@ URL: paypal-account-security-update[.]xyz
 - Suspicious extension (.xyz)
 - Looks like login page
 
-Verdict: Phishing ✅  
+Verdict: Phishing  
 
 
 ---
 
-## 🌐 VirusTotal Check
+##  VirusTotal Check
 
 IP: 45.146.165.37  
 
 - Detection: 9/94
 - Some engines marked malicious
 
-Verdict: Malicious ⚠️  
+Verdict: Malicious 
 
 
 ---
 
-## 🚨 SOC Alert
+##  SOC Alert
 
 Alert: Multiple Login Failures  
 
