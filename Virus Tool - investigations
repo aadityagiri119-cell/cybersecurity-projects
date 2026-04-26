@@ -1,22 +1,22 @@
 # VirusTotal Investigation
 
-## 🌐 Indicator
+##  Indicator
 IP: 45.146.165.37
 
-## 🔍 Scan Result
+##  Scan Result
 Detection: 9/94
 
-## 🚨 Analysis
+##  Analysis
 - Multiple engines flagged as malicious
 - Associated with suspicious activity
 
-## 🧠 Interpretation
+##  Interpretation
 - Even low detection can be risky
 - Cross-check with other sources recommended
 
-## ✅ Verdict
+##  Verdict
 Malicious
 
-## 🛡️ Action
+##  Action
 - Block IP
 - Monitor network traffic
